@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FinSWebApp.Migrations
 {
     [DbContext(typeof(AuthDbContext))]
-    [Migration("20241207025725_afterAddingAppsettingProduction")]
+    [Migration("20241207032740_afterAddingAppsettingProduction")]
     partial class afterAddingAppsettingProduction
     {
         /// <inheritdoc />
